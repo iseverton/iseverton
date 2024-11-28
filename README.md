@@ -5,7 +5,7 @@
 Estou em busca de me tornar um desenvolvedor back-end. Atualmente, curso Ciência da Computação e estou me aprofundando em .NET, com foco em ASP.NET Core. Gosto muito de aprender novas tecnologias e estou sempre em busca de me aprimorar nesse universo da programação.
 
 
-# Linguagens e Ferramentas
+# Linguagens 
 
 - Backend
 
