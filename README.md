@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨🏻‍💻Everton Ferreira
 
-<!--
-**iseverton/iseverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre mim**
 
-Here are some ideas to get you started:
+Estou em busca de me tornar um desenvolvedor back-end. Atualmente, curso Ciência da Computação e estou me aprofundando em .NET, com foco em ASP.NET Core. Gosto muito de aprender novas tecnologias e estou sempre em busca de me aprimorar nesse universo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Linguagens e Ferramentas
+
+- Backend
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet&theme=light)](https://skillicons.dev)
+
+- Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
+
+- Banco de dados  
+
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
