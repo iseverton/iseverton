@@ -1,9 +1,18 @@
-# 👨🏻‍💻Everton Ferreira
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88ffbacb-82a0-4e17-8e2a-4ed1e91b9d2d" 
+       alt="Banner with Blur Highlights" 
+       width="1000"/>
+</p>
+
+<h1 align="center">👨🏻‍💻 Everton Ferreira</h1>
 
 **Sobre mim**
 
-Estou em busca de me tornar um desenvolvedor back-end. Atualmente, curso Ciência da Computação e estou me aprofundando em .NET, com foco em ASP.NET Core. Gosto muito de aprender novas tecnologias e estou sempre em busca de me aprimorar nesse universo da programação.
-
+Estudante de Ciência da Computação (4º semestre) com sólida base em desenvolvimento
+backend e Web, com foco em tecnologias C# e .NET. Possuo conhecimentos em Asp.Net
+Entity Framework, SQL Server e Git, além de familiaridade com consumo de APIs
+REST. Busco uma vaga como desenvolvedor para contribuir em projetos reais e continuar
+evoluindo na área.
 
 # Linguagens 
 
