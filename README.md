@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a59bd78f-9bef-4ae5-98eb-0302cdf093db" 
+  <img src="https://github.com/user-attachments/assets/9335ea95-88ec-4b6d-8992-4b3ba9bb5fb5" 
        alt="Banner with Blur Highlights" 
        width="1000"/>
 
 </p>
+
 
 <h1 align="center">👨🏻‍💻 Everton Ferreira</h1>
 
