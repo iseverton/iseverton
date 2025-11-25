@@ -11,7 +11,9 @@
 
 # **Sobre mim**
 
-Estudante de Ciência da Computação (4º semestre) com experiência em desenvolvimento utilizando C#/.NET, Angular, JavaScript e SQL, com foco em desenvolvimento de REST APIs, aplicação dos princípios SOLID e uso de padrões de arquitetura como MVC e Arquitetura Limpa. Conhecimento em integração com bancos de dados relacionais e versionamento com Git e GitHub. Busco oportunidades que me permitam contribuir para a construção de sistemas escaláveis e me impulsionem como desenvolvedor.
+Estudante de Ciência da Computação (4º semestre) com experiência em desenvolvimento utilizando C#/.NET, Angular, JavaScript e SQL, com foco em desenvolvimento de REST APIs, aplicação dos princípios SOLID e uso de padrões de arquitetura como MVC e Arquitetura Limpa. 
+
+Conhecimento em integração com bancos de dados relacionais e versionamento com Git e GitHub. Busco oportunidades que me permitam contribuir para a construção de sistemas escaláveis e me impulsionem como desenvolvedor.
 
 ---
  #  **Skills**
