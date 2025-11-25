@@ -6,9 +6,7 @@
 
 </p>
 
-
-<h1 align="center">👨🏻‍💻 Everton Ferreira</h1>
-
+---
 # **Sobre mim**
 
 Estudante de Ciência da Computação (4º semestre) com experiência em desenvolvimento utilizando C#/.NET, Angular, JavaScript e SQL, com foco em desenvolvimento de REST APIs, aplicação dos princípios SOLID e uso de padrões de arquitetura como MVC e Arquitetura Limpa. 
